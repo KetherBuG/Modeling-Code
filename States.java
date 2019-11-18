@@ -7,5 +7,7 @@
  */
 public class States
 {
- 
+ String position;
+ String weather;
+ String population;
 }

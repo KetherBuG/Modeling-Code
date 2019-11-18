@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Nevada extends USA
+public class Nevada extends States
 {
     // instance variables - replace the example below with your own
     private int x;
