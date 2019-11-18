@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class Country here.
+ * Write a description of class New_York here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class USA
+public class New_York extends USA
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class Country
+     * Constructor for objects of class New_York
      */
-    public USA()
+    public New_York()
     {
         // initialise instance variables
         x = 0;
