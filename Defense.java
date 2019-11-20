@@ -11,6 +11,6 @@ public void init()
 {
     String acronym = "dod";
     String address = "1400 Defense Pentagon Washington, DC 20301-1400";
-    double phone = Double.NaN;
+    double phone = 7035713343d;
 }
 }
