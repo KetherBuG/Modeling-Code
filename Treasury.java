@@ -14,4 +14,8 @@ public void init()
     double phone = 12026222000d;
     System.out.println(acronym);
 }
+public static void fund(int money){
+    int funding = money;
+    System.out.println("You got "+money+" dollars");
+}
 }
