@@ -5,9 +5,9 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class States
+public class States extends USA 
 {
- String position;
+ String geography;
  String weather;
- String population;
+ double population;
 }
