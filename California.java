@@ -12,5 +12,8 @@ public class California extends States{
        population = 3956000;
       
     } 
+    public void Guacamole(){
+        String specialFood = "Fresh Guacamole" ;
+    }
   
 }

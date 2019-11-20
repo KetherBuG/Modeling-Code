@@ -12,5 +12,7 @@ public class New_York extends States
        weather = "Extreme";
        population = 1954000;
     }
-    
+    public void Timesquare(){
+    String specialSite = "Time Square";
+    }
 }

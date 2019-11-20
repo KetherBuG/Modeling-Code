@@ -12,4 +12,7 @@ public class Nevada extends States
        weather = "dry";
        population = 3034000;
     }
+    public void Gambling(){
+        String specialIndustry = "Gambling";
+    }
 }
